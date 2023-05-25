@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adwait</h1>
-<h3 align="center">A curious Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Go,Rust**
 
